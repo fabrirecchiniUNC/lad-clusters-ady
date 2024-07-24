@@ -1,0 +1,17 @@
+{
+    "global": {
+        "core:author": "Author",
+        "core:datatype": "cf32_le",
+        "core:description": "Captura de transmision FM",
+        "core:sample_rate": 2400000.0,
+        "core:sha512": "c2bb26c991f58ac398d6e6422489edcb3ff2cdb7a602600fd79c01b1187b0d3c845d3281e714612b317779cb6ee107d68bbeb5b736c1f37072033aea7ef7fc4f",
+        "core:version": "1.0.0"
+    },
+    "captures": [
+        {
+            "core:frequency": 94600000.0,
+            "core:sample_start": 0
+        }
+    ],
+    "annotations": []
+}
