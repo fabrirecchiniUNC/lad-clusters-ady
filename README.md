@@ -18,6 +18,7 @@ Contiene el desarrollo del trabajo final
 _sample_capture.sigmf-data_
 
 Contiene los datos de las muestras capturadas que se hicieron con PlutoSDR
+
 _sample_capture.sigmf-meta_
 
 Contiene los metadatos de las muestras capturadas
